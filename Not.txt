@@ -1,2 +1,0 @@
-Udemy Uygulama Geliştirerek C# - Bölüm 13
-Github' a yüklenecek.
